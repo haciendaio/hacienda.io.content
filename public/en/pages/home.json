@@ -1,6 +1,6 @@
 {
   "id": "home",
-  "subtitle": "Hacienda is a simple, lightweight and pluggable service built to store your content written in Ruby",
+  "subtitle": "Hacienda is a simple, lightweight and pluggable service built to store your content",
   "sections": {
     "json": "Content should be distinct from presentation. You should be able to easily change the way your content looks without modifying it. Storing content as plain JSON achieves that.",
     "rest": "Managing content should be clear and easy. Hacienda exposes a simple API based on HTTP verbs to create and modify your content.",
